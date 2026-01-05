@@ -1,0 +1,64 @@
+index.html
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <title>智慧海洋生態管理系統</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{font-family:system-ui;max-width:900px;margin:40px auto;line-height:1.7;padding:0 16px;}
+    h1,h2{margin-top:24px;}
+    .card{border:1px solid #ddd;border-radius:12px;padding:16px;margin:16px 0;}
+    img{max-width:100%;border-radius:12px;border:1px solid #eee;}
+    .small{color:#666;font-size:14px;}
+  </style>
+</head>
+<body>
+
+<h1>結合深度學習之智慧海洋生態管理系統研究</h1>
+<p class="small">GitHub 專案（技術展示）｜GitHub.io 專案官網</p>
+
+<div class="card">
+  <h2>專案介紹</h2>
+  <p>
+    本專題結合深度學習影像辨識技術，透過水下影像自動辨識海洋垃圾，
+    並建置資料庫與管理介面，協助管理單位掌握海洋生態狀況，
+    提升海洋環境管理與決策支援能力。
+  </p>
+</div>
+
+<div class="card">
+  <h2>系統情境說明（圖1）</h2>
+  <p>水下影像 → AI 辨識 → 資料庫 → 管理者查詢</p>
+</div>
+
+<div class="card">
+  <h2>市場分析（圖2-1、圖2-2）</h2>
+  <p>
+    現有市場多為現成型 AI 工具，雖可快速產出結果，
+    但普遍缺乏後台資料管理與系統化應用。
+    本專題著重於「AI × 管理平台」的整合。
+  </p>
+</div>
+
+<div class="card">
+  <h2>系統功能</h2>
+  <ul>
+    <li>水下影像上傳與管理</li>
+    <li>垃圾類型 AI 辨識</li>
+    <li>辨識結果查詢與統計</li>
+    <li>管理者後台操作（CRUD）</li>
+  </ul>
+</div>
+
+<div class="card">
+  <h2>成員</h2>
+  <ul>
+    <li>授課老師：＿＿＿</li>
+    <li>組長：＿＿＿</li>
+    <li>組員：＿＿＿、＿＿＿、＿＿＿</li>
+  </ul>
+</div>
+
+</body>
+</html>
